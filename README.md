@@ -15,5 +15,5 @@ Webアプリケーションの企画・設計・開発・インフラ構築・�
 | プロジェクト | 概要 |
 |---|---|
 | [結婚式招待サイト](https://github.com/hamaguti0000/wedding-ai-system) | ゲストの出欠回答・アレルギー入力・ゲストブックを備えたLaravel製の結婚式招待サイト。管理画面から全コンテンツを運用 |
-| [補助金ナビ長崎](https://github.com/nagasaki-hojokin-org/nagasaki-hojokin) | 長崎県内向けの補助金情報検索サービス |
+| [補助金ナビ](https://nagasaki-hojokin.com) | 長崎・佐賀・熊本の補助金情報検索サービス（リポジトリは非公開） |
 | [お菓子のみよしや](https://github.com/hamaguti0000/okashinomiyoshiya) | 長崎県諫早市の和洋菓子店のランディングページ + 商品・お知らせ管理画面（Next.js / Prisma） |
